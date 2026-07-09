@@ -22,10 +22,11 @@ Senior Software Engineer with an M.S. in Computer Science from Georgia Tech. I e
 * Building full-stack applications
 * Learning new technologies and best practices
 * Contributing to personal and open-source projects
+* Create AI ML solutions 
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/patrick-daley-ms-49a584101/
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/Dales24
 
 Thanks for stopping by!
