@@ -22,7 +22,7 @@ Senior Software Engineer with an M.S. in Computer Science from Georgia Tech. I e
 * Building full-stack applications
 * Learning new technologies and best practices
 * Contributing to personal and open-source projects
-* Create AI ML solutions 
+* Creating AI/ML solutions 
 
 ## 📫 Connect With Me
 
