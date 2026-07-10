@@ -17,6 +17,7 @@
 - **Platform & backend** — Python / FastAPI services, SQL, event-driven pipelines (SQS, EventBridge, streams, Rabbit, Kafka).
 - **Cloud & infra** — AWS with infrastructure-as-code (Terraform + CDK), CI/CD, and observability.
 - **Full-stack** — React / Next.js / TypeScript front ends for the systems I build.
+- **AI & data** — data wrangling and analysis with pandas / NumPy, algorithm design, NLP, and applied ML/AI.
 
 ### 🚀 What I'm working on
 
@@ -26,6 +27,15 @@
 - Creating AI/ML solutions
 - Learning, and sharing, better ways to ship safely.
 
+### 🧱 How I write code
+
+I care about code that stays easy to change:
+
+- **DRY & modular** — small, composable pieces and shared helpers over copy-paste.
+- **Maintainable** — clear boundaries, single responsibility, and refactoring toward the simplest thing that works.
+- **Built to last** — readable, well-tested, documented code the next person (or future me) can change with confidence.
+
+  
 ### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
