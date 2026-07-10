@@ -44,13 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dales24&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dales24&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-daley-ms-49a584101/)
