@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Patrick Daley" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Patrick 👋</h1>
 
 <p align="center">
